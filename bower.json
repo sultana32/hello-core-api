@@ -1,0 +1,8 @@
+{
+  "name": "hello-core-api",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular-ui-bootstrap-bower": "0.11.0"
+  }
+}
+
